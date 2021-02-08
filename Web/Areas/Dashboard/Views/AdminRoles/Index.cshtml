@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityRole>
+
+@{
+}
+
+
+<a href="/dashboard/AdminRoles/Create" class="btn btn-outline-dark btn-block btn-lg text-capitalize">Create</a>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead class="text-center">
+        <tr>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody class="text-center">
+        @foreach (var role in Model)
+        {
+            <tr>
+                <td>@role.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

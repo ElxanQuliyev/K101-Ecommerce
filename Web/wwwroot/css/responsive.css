@@ -1,0 +1,2003 @@
+@media only screen and (max-width: 767px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pt-70 {
+    padding-top: 20px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .header-area .top-header-area {
+    text-align: center;
+  }
+  .header-area .top-header-area .header-content-right {
+    float: unset;
+  }
+  .tezno-nav-style .others-option {
+    position: absolute;
+    top: 19px;
+    right: 70px;
+  }
+  .tezno-nav-style .others-option .search-wrap {
+    display: none;
+  }
+  .tezno-slider-area {
+    padding-top: 135px;
+    padding-bottom: 70px;
+    text-align: center;
+  }
+  .tezno-slider-area .tezno-slider-text h1 {
+    font-size: 45px;
+    margin-bottom: 25px;
+  }
+  .tezno-slider-area .tezno-slider-text p {
+    margin-bottom: 30px;
+  }
+  .tezno-slider-area .slider-img {
+    margin-top: 30px;
+  }
+  .tezno-slider-area .tezno-slider-thumb {
+    margin: 30px auto -6px;
+    text-align: center;
+  }
+  .tezno-slider-area .slider-bottom-shape {
+    bottom: -9px;
+  }
+  .single-service i::after {
+    display: none;
+  }
+  .single-discover-products .product-img {
+    padding: 20px;
+  }
+  .single-discover-products .product-content {
+    padding: 0 20px 20px 20px;
+  }
+  .seasons-area .col-lg-6 {
+    padding: 0;
+  }
+  .seasons-area .seasons-wrap {
+    padding: 30px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap {
+    padding: 50px;
+    height: unset;
+    margin-top: 50px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content {
+    text-align: center;
+    padding: 30px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content img {
+    position: unset;
+    display: block;
+    text-align: center;
+    margin: 0 auto 15px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content .default-btn {
+    font-size: 14px;
+    padding: 10px 20px 10px 10px;
+  }
+  .best-week-area .best-week-content {
+    padding: 20px;
+  }
+  .best-week-area .best-week-content {
+    margin-bottom: 30px;
+  }
+  .best-week-area .best-week-content h3 {
+    font-size: 25px;
+  }
+  .best-week-area .best-week-content .quantity input {
+    width: 20%;
+  }
+  .best-week-area .best-week-content .default-btn {
+    margin-top: 30px;
+    margin-left: 0;
+  }
+  .weekly-specials-area .weekly-specials-wrap {
+    padding: 20px;
+  }
+  .weekly-specials-area .tab .tabs {
+    margin-bottom: 20px;
+  }
+  .weekly-specials-area .tab .tabs li {
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+  .weekly-specials-area .tab .tabs li a {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+  .weekly-specials-area .custom-mb .single-discover-products {
+    margin-bottom: 30px;
+  }
+  .subscribe-area .subscribe-img {
+    position: unset;
+    margin-top: 30px;
+  }
+  .subscribe-area .subscribe-content {
+    text-align: center;
+  }
+  .subscribe-area .subscribe-content h2 {
+    font-size: 30px;
+  }
+  .subscribe-area .subscribe-content .form-control {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .jaeger-coulter-wrap .jaeger-content {
+    text-align: center;
+    padding: 20px;
+  }
+  .jaeger-coulter-wrap .jaeger-content h3 {
+    font-size: 25px;
+  }
+  .jaeger-coulter-wrap .jaeger-content img {
+    position: unset;
+  }
+  .collection-wrap {
+    margin-top: 30px;
+  }
+  .featured-products-area .tab .tabs {
+    margin-bottom: 30px;
+  }
+  .featured-products-area .tab .tabs li {
+    padding: 0 0;
+  }
+  .featured-products-area .tab .tabs li a {
+    font-size: 14px;
+  }
+  .featured-products-area .custom-mb .single-discover-products {
+    margin-bottom: 30px;
+  }
+  .single-articles .articles-content {
+    padding: 20px;
+    padding-top: 30px;
+  }
+  .collection-single .collection-img {
+    margin: auto;
+    text-align: center;
+  }
+  .collection-single .collection-img img {
+    max-width: 200px;
+  }
+  .collection-single .collection-img .collection-shape {
+    right: 0;
+    margin: auto;
+    text-align: center;
+  }
+  .collection-single .collection-content {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .single-widget h3 {
+    margin-bottom: 15px;
+  }
+  .single-widget ul li a i {
+    font-size: 14px;
+  }
+  .footer-bottom-area {
+    text-align: center;
+  }
+  .footer-bottom-area .social-area {
+    margin-bottom: 10px;
+  }
+  .footer-bottom-area .copy-right {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .footer-bottom-area .payment-method {
+    float: unset;
+    margin-bottom: 10px;
+  }
+  .electronics-header-area {
+    text-align: center;
+  }
+  .electronics-header-area .top-header-area {
+    display: none;
+  }
+  .electronics-header-area .top-header-area .header-content-left {
+    display: none;
+  }
+  .electronics-header-area .top-header-area .header-content-right li:last-child {
+    margin-right: 0;
+    margin-top: 10px;
+  }
+  .electronics-header-area .middle-header-area {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .electronics-header-area .middle-header-area .policy-area {
+    float: unset;
+  }
+  .electronics-header-area .middle-header-area .item-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .electronics-header-area .middle-header-area .item-1 p {
+    font-size: 14px;
+  }
+  .tezno-electronics-slider-area .tezno-slider-text .slider-btn .active {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .best-product-area .best-product-wrap .best-product-content {
+    padding: 20px;
+  }
+  .best-product-area .best-product-wrap .best-product-img {
+    height: 200px;
+  }
+  .delivery-wrap {
+    padding: 20px;
+  }
+  .delivery-wrap .single-delivery {
+    padding-left: 0;
+  }
+  .delivery-wrap .single-delivery i {
+    position: unset;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .trendy-collection-area .tab .tabs li {
+    margin-bottom: 10px;
+  }
+  .trendy-collection-area .tab .tabs li:last-child {
+    margin-bottom: 0;
+  }
+  .trendy-collection-area .tab .tabs li a {
+    font-size: 14px;
+  }
+  .mac-book-content {
+    margin-bottom: 30px;
+    padding: 20px;
+    height: unset;
+  }
+  .mac-book-content .offer {
+    font-size: 15px;
+    right: -5px;
+  }
+  .offer-product-wrap .single-trendy-products {
+    margin: 20px;
+    margin-right: 20px;
+  }
+  .offer-product-wrap .deal-offer {
+    text-align: center;
+    padding: 20px;
+  }
+  .featured-products-area .tab .tabs li a {
+    padding: 0 10px;
+  }
+  .electronics-news-area .electronics-news-title {
+    margin-bottom: 30px;
+  }
+  .electronics-news-area .electronics-news-title h2 {
+    font-size: 30px;
+  }
+  .electronics-news-area .container-fluid {
+    max-width: 540px;
+    margin: auto;
+  }
+  .electronics-news-area .container-fluid .col-lg-3 {
+    padding: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .electronics-news-area .container-fluid .col-lg-9 {
+    padding: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .electronics-news-area .container-fluid .single-electronics-news .single-electronics-content {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    max-width: unset;
+    right: 20px;
+  }
+  .electronics-news-area .container-fluid .single-electronics-news .single-electronics-content a h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .sales-area {
+    text-align: center;
+  }
+  .sales-area .sales-title h2 {
+    font-size: 30px;
+  }
+  .sales-area .browse-categories {
+    margin-left: 0;
+  }
+  .sales-area .owl-carousel .owl-item img {
+    height: 250px;
+  }
+  .sales-area .sales-content-wrap {
+    padding: 20px;
+  }
+  .sales-area .sales-content-wrap .sales-content h3 {
+    margin-bottom: 15px;
+  }
+  .sales-area .sales-content-wrap .price {
+    margin-bottom: 15px;
+  }
+  .electronics-news-area {
+    text-align: center;
+    overflow: hidden;
+  }
+  .sales-area .owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 0px !important;
+  }
+  .address-area {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .address-area .single-address {
+    margin-bottom: 30px;
+  }
+  .jewelry-header-area .top-header-area {
+    display: none;
+  }
+  .jewelry-header-area .top-header-area {
+    display: none;
+  }
+  .jewelry-header-area .bottom-header-area {
+    display: none;
+  }
+  .jewelry-banner-area .social {
+    display: none;
+  }
+  .jewelry-banner-area .jewelry-banner-text {
+    text-align: center;
+    padding-top: 140px;
+  }
+  .jewelry-banner-area .jewelry-banner-text h1 {
+    font-size: 40px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .offer {
+    font-size: 18px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .starting {
+    font-size: 16px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .price {
+    font-size: 16px;
+  }
+  .jewelry-banner-area .col-lg-6.pr-0 {
+    padding-right: 15px !important;
+  }
+  .best-product-area {
+    padding-top: 50px;
+  }
+  .best-product-area .container-fluid {
+    max-width: 540px;
+  }
+  .best-product-area .container-fluid .col-lg-4.p-0 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .best-product-area .container-fluid .col-lg-4.p-0:nth-child(3) .single-offer-product {
+    margin-bottom: 0;
+  }
+  .best-product-area .container-fluid .single-offer-product {
+    margin-bottom: 30px;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product {
+    top: 150px;
+    right: 25px;
+    width: 100px;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product.spl {
+    top: 165px !important;
+  }
+  .jewelry-bg-1 {
+    padding: 20px;
+    padding-bottom: 0;
+    padding-top: 30px;
+  }
+  .jewelry-bg-1 .single-delivery h3 {
+    font-size: 18px;
+  }
+  .jewelry-bg-1 .single-delivery i {
+    top: 0;
+  }
+  .trending-collection-area .trending-collection-content h2 {
+    font-size: 35px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul {
+    display: block;
+    float: unset;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  .this-is-deal-of-the-days .end-offer-bg {
+    padding: 20px;
+  }
+  .deal-offer {
+    padding: 20px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li a img {
+    margin-right: 12px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li:last-child a img {
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+  .deal-offer #timer div {
+    width: 46px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image .tabs_item img {
+    width: 100%;
+    margin-left: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  .this-is-deal-of-the-days {
+    text-align: center;
+  }
+  .this-is-deal-of-the-days .product-view-one-image {
+    padding: 20px;
+    padding-bottom: 0;
+  }
+  .precious-jewelry-area .shorting-menu .filter {
+    padding: 10px 20px;
+    font-size: 14px;
+    margin: 0 10px;
+    margin-bottom: 10px;
+  }
+  .precious-jewelry-area .shorting-menu {
+    margin: 0 auto 20px;
+  }
+  .available-all-jewelry-wrap .available-all-jewelry-content.two {
+    padding-left: 0;
+    text-align: center;
+  }
+  .available-all-jewelry-wrap .available-all-jewelry-content.two img {
+    position: unset;
+    margin-bottom: 20px;
+  }
+  .diamond-area .container-fluid .col-lg-6 {
+    padding-left: 15px !important;
+  }
+  .diamond-area .container-fluid .col-lg-6 {
+    padding-right: 15px !important;
+  }
+  .diamond-wrap .diamond-content {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .diamond-wrap .diamond-content .build {
+    margin-left: 0;
+    margin-top: 25px;
+  }
+  .diamond-wrap {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+  }
+  .diamond-img {
+    height: 200px;
+    margin-bottom: 30px;
+  }
+  .diamond-wrap .diamond-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .diamond-wrap .diamond-content p {
+    margin-bottom: 30px;
+  }
+  .best-product-jewelry-area .owl-theme .owl-dots {
+    margin-top: 0px !important;
+    line-height: 1;
+  }
+  .jewelry-around-area .jewelry-around-discount {
+    padding: 30px;
+    margin: 30px auto 0;
+    text-align: center;
+  }
+  .jewelry-around-area .jewelry-around-discount h2 {
+    font-size: 60px;
+  }
+  .jewelry-around-area .jewelry-around-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .jewelry-around-area .jewelry-around-content p {
+    margin-bottom: 10px;
+  }
+  .jewelry-around-area .jewelry-around-content span {
+    margin-bottom: 25px;
+  }
+  .single-blog .blog-content {
+    padding: 20px;
+  }
+  .trending-collection-area .trending-collection-content span {
+    margin-bottom: 20px;
+  }
+  .trending-collection-area .trending-collection-content h2 {
+    margin-bottom: 10px;
+  }
+  .trending-collection-area .trending-collection-content p {
+    margin-bottom: 30px;
+  }
+  .available-all-jewelry-wrap.two {
+    margin-top: 30px;
+  }
+  .jewelry-subscribe-area .subscribe-area-wrap {
+    padding: 20px;
+  }
+  .jewelry-subscribe-area .subscribe-area-wrap {
+    text-align: center;
+  }
+  .jewelry-subscribe-area .subscribe-area-wrap h2 {
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  .jewelry-subscribe-area .subscribe-wrap .newsletter-form .default-btn {
+    position: unset;
+    margin: 20px auto 0;
+    display: table;
+  }
+  .jewelry-subscribe-area .subscribe-wrap .form-control {
+    height: 50px;
+  }
+  .jewelry-header-area.tezno-nav-style-electronics span {
+    display: none;
+  }
+  .tezno-nav-style-electronics span {
+    display: none;
+  }
+  .ls-fullscreen-wrapper {
+    padding-top: 70px;
+  }
+  .ls-fullscreen-wrapper #slider {
+    margin: 0px auto 45px 0px !important;
+  }
+  .user-area-all-style .contact-form-action {
+    padding: 20px;
+  }
+  .user-area-all-style .contact-form-action .form-heading .form-title {
+    font-size: 25px;
+  }
+  .user-area-all-style .contact-form-action .form-heading .form-desc {
+    font-size: 15px;
+  }
+  .user-area-all-style .contact-form-action .default-btn {
+    display: block;
+    width: 100%;
+  }
+  .user-area-all-style .contact-form-action .agree-label {
+    text-align: center;
+  }
+  .user-area-all-style .contact-form-action .forget {
+    float: unset;
+    float: unset;
+    margin-bottom: 30px;
+    text-align: center;
+    display: block;
+  }
+  .user-area-all-style .contact-form-action .now-register {
+    float: unset;
+    margin-top: 10px;
+  }
+  .error-area {
+    padding: 70px 0;
+  }
+  .error-area .error-content-wrap p {
+    margin: 15px 0 20px;
+  }
+  .error-area .error-content-wrap h1 {
+    font-size: 150px;
+  }
+  .coming-soon-area .coming-soon-content {
+    height: 100%;
+  }
+  .coming-soon-area .coming-soon-content h1 {
+    font-size: 40px;
+    line-height: 1.1;
+    margin-top: 0;
+  }
+  .coming-soon-area .coming-soon-content p {
+    font-size: 13px;
+    margin-top: 15px;
+  }
+  .coming-soon-area .coming-soon-content #timer {
+    margin-top: 20px;
+  }
+  .coming-soon-area .coming-soon-content #timer div {
+    font-size: 40px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .coming-soon-area .coming-soon-content #timer div span {
+    font-size: 14px;
+    margin-top: -5px;
+  }
+  .coming-soon-area .coming-soon-content #timer div::before {
+    display: none;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form {
+    margin-top: 35px;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form .input-newsletter {
+    height: 55px;
+    padding-left: 13px;
+    font-size: 15px;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form button {
+    position: relative;
+    height: auto;
+    padding: 14px 30px;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .coming-soon-area .coming-soon-content {
+    height: 100%;
+  }
+  .coming-soon-area .coming-soon-content h1 {
+    font-size: 40px;
+    line-height: 1.1;
+    margin-top: 0;
+  }
+  .coming-soon-area .coming-soon-content p {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .coming-soon-area .coming-soon-content #timer {
+    margin-top: 20px;
+  }
+  .coming-soon-area .coming-soon-content #timer div {
+    font-size: 40px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .coming-soon-area .coming-soon-content #timer div span {
+    font-size: 14px;
+    margin-top: -5px;
+  }
+  .coming-soon-area .coming-soon-content #timer div::before {
+    display: none;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form {
+    margin-top: 35px;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form .input-newsletter {
+    height: 55px;
+    padding-left: 13px;
+    font-size: 15px;
+  }
+  .coming-soon-area .coming-soon-content .newsletter-form button {
+    position: relative;
+    height: auto;
+    padding: 14px 30px;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .cart-area .cart-table {
+    text-align: center;
+  }
+  .cart-area .cart-table table thead tr th {
+    padding: 0 40px 10px;
+    white-space: nowrap;
+  }
+  .cart-area .cart-table table thead tr th:first-child {
+    text-align: left;
+    padding-left: 0;
+  }
+  .cart-area .cart-table table tbody tr td {
+    white-space: nowrap;
+  }
+  .cart-area .cart-table table tbody tr td:first-child {
+    text-align: left;
+    padding-left: 0;
+  }
+  .cart-area .cart-buttons {
+    text-align: center;
+  }
+  .cart-area .cart-buttons .text-right {
+    text-align: center !important;
+    margin-top: 0;
+  }
+  .cart-area .cart-totals {
+    padding: 20px;
+    margin-top: 35px;
+  }
+  .cart-area .cart-totals h3 {
+    margin-bottom: 18px;
+    font-size: 17px;
+  }
+  .cart-area .cart-totals ul li {
+    font-size: 13px;
+  }
+  .cart-area .cart-totals .default-btn {
+    display: block;
+    text-align: center;
+  }
+  .cart-area .checkout-area .title {
+    margin-bottom: 20px;
+    font-size: 17px;
+  }
+  .cart-area .billing-details {
+    padding: 15px;
+  }
+  .cart-area .billing-details .form-group {
+    margin-bottom: 15px;
+  }
+  .cart-area .billing-details .form-group label {
+    margin-bottom: 7px;
+  }
+  .cart-area .billing-details .form-group .form-control {
+    height: 40px;
+    line-height: 40px;
+  }
+  .cart-area .billing-details .form-group textarea {
+    height: 100% !important;
+  }
+  .cart-area .billing-details .form-check label {
+    top: 2px;
+  }
+  .cart-area .order-details {
+    margin-top: 30px;
+  }
+  .cart-area .order-details .order-table {
+    padding: 15px;
+  }
+  .cart-area .order-details .order-table table thead tr th {
+    white-space: nowrap;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+  }
+  .cart-area .order-details .order-table table tbody tr td {
+    white-space: nowrap;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .cart-area .order-details .payment-box {
+    padding: 15px;
+  }
+  .cart-area .cart-area .default-btn {
+    display: block;
+    text-align: center;
+  }
+  .cart-area .coupon-wrap {
+    padding: 20px !important;
+    margin-top: 30px;
+  }
+  .cart-area .cart-wraps {
+    padding: 20px;
+  }
+  .cart-area .cart-wraps .continue-shopping-box {
+    margin-bottom: 20px;
+  }
+  .cart-area .cart-wraps .default-btn {
+    width: 100%;
+  }
+  .cart-area .coupon-wrap .default-btn {
+    width: 100%;
+  }
+  .checkout-area .title {
+    margin-bottom: 20px;
+    font-size: 17px;
+  }
+  .checkout-area .billing-details {
+    padding: 15px;
+  }
+  .checkout-area .billing-details .form-group {
+    margin-bottom: 15px;
+  }
+  .checkout-area .billing-details .form-group label {
+    margin-bottom: 7px;
+  }
+  .checkout-area .billing-details .form-group .form-control {
+    height: 40px;
+    line-height: 40px;
+  }
+  .checkout-area .billing-details .form-group textarea {
+    height: 100% !important;
+  }
+  .checkout-area .billing-details .form-check label {
+    top: 2px;
+  }
+  .checkout-area .order-details {
+    margin-top: 30px;
+  }
+  .checkout-area .order-details .order-table {
+    padding: 15px;
+  }
+  .checkout-area .order-details .order-table table thead tr th {
+    white-space: nowrap;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+  }
+  .checkout-area .order-details .order-table table tbody tr td {
+    white-space: nowrap;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .checkout-area .order-details .payment-box {
+    padding: 15px;
+  }
+  .product-details-area .product-details-desc {
+    margin-top: 25px;
+  }
+  .product-details-area .product-details-desc h3 {
+    font-size: 16px;
+  }
+  .product-details-area .product-details-desc .price {
+    margin-bottom: 13px;
+  }
+  .product-details-area .product-details-desc .product-review {
+    margin-bottom: 13px;
+  }
+  .product-details-area .product-details-desc .product-review .rating {
+    font-size: 13px;
+  }
+  .product-details-area .products-details-tab {
+    margin-top: 30px;
+  }
+  .product-details-area .products-details-tab .tabs {
+    margin-bottom: -11px;
+  }
+  .product-details-area .products-details-tab .tabs li {
+    margin-bottom: 10px;
+  }
+  .product-details-area .products-details-tab .tabs li a {
+    font-size: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 40px;
+  }
+  .product-details-area .products-details-tab .tabs li a .dot {
+    left: 20px;
+  }
+  .product-details-area .products-details-tab .tab_content {
+    padding: 25px 20px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .additional-information li span {
+    display: block;
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content h3 {
+    font-size: 16px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-title .rating i {
+    font-size: 13px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-title .btn {
+    position: relative;
+    right: 0;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin-top: 15px;
+    display: block;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item {
+    padding-right: 0;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item .rating i {
+    font-size: 13px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item h3 {
+    font-size: 15px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item span {
+    font-size: 12px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item .review-report-link {
+    position: relative;
+    top: 0;
+    margin-top: 15px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-form form .review-rating {
+    display: none;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-form form .form-group label {
+    font-size: 13px;
+  }
+  .product-details-area .products-details-tab .custom-payment-options .payment-methods a img {
+    width: 39px;
+  }
+  .product-details-area .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-form form .btn {
+    width: 100%;
+  }
+  .product-details-area .product-details-image {
+    margin-top: 30px;
+  }
+  .news-details-area .blog-details-desc .article-content .entry-meta ul li {
+    display: block;
+    font-size: 15px;
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+  .news-details-area .blog-details-desc .article-content .entry-meta ul li::before {
+    display: none;
+  }
+  .news-details-area .blog-details-desc .article-content h3 {
+    line-height: 1.5;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .news-details-area .blog-details-desc .article-content p {
+    font-size: 15px;
+  }
+  .news-details-area .blog-details-desc .article-content .features-list li {
+    font-size: 15px;
+  }
+  .news-details-area .widget-area .widget {
+    padding: 0;
+  }
+  .news-details-area blockquote {
+    padding: 30px !important;
+  }
+  .news-details-area blockquote p {
+    font-size: 16px !important;
+  }
+  .news-details-area .blockquote {
+    padding: 30px !important;
+  }
+  .news-details-area .blockquote p {
+    font-size: 16px !important;
+  }
+  .news-details-area .comments-area {
+    padding: 20px;
+  }
+  .news-details-area .comments-area .comment-author {
+    font-size: 15px;
+    margin-bottom: 0.3em;
+  }
+  .news-details-area .comments-area .comment-author .avatar {
+    left: 0;
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+  }
+  .news-details-area .comments-area .comment-body {
+    padding-left: 0;
+  }
+  .news-details-area .comments-area .comments-title {
+    font-size: 19px;
+  }
+  .news-details-area .comments-area .comments-title::before {
+    left: -20px;
+  }
+  .news-details-area .comments-area .comment-metadata {
+    font-size: 12px;
+  }
+  .news-details-area .comments-area .comment-respond .comment-reply-title {
+    font-size: 19px;
+  }
+  .news-details-area .comments-area .comment-respond .comment-reply-title::before {
+    left: -20px;
+  }
+  .news-details-area .comments-area .comment-respond .comment-form-author {
+    width: 100%;
+    padding-right: 0;
+  }
+  .news-details-area .comments-area .comment-respond .comment-form-email {
+    width: 100%;
+    padding-left: 0;
+  }
+  .news-details-area .comments-area .comment-respond .form-submit input {
+    padding: 12px 25px 10px;
+  }
+  .news-details-area .widget-area .widget:first-child {
+    margin-top: 35px;
+  }
+  .page-title-area {
+    padding-bottom: 100px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .tezno-nav-style .others-option {
+    right: 80px;
+  }
+  .tezno-nav-style .others-option .search-wrap {
+    display: inline-block;
+  }
+  .single-service p {
+    font-size: 14px;
+  }
+  .single-discover-products .product-content h3 {
+    font-size: 19px;
+  }
+  .single-discover-products .purchase-bar {
+    padding: 20px;
+  }
+  .weekly-specials-area .tab .tabs li {
+    padding: 0 3px;
+  }
+  .weekly-specials-area .tab .tabs li a {
+    padding: 5px;
+  }
+  .best-week-area .best-week-content .default-btn {
+    margin-left: 30px;
+  }
+  .single-delivery i {
+    top: 0;
+  }
+  .tezno-nav-style-electronics .others-option {
+    display: none;
+  }
+  .delivery-area .col-lg-4.col-sm-6.offset-sm-3.offset-lg-0 .single-delivery {
+    margin-bottom: 0 !important;
+  }
+  .single-trendy-products .product-content h3 {
+    font-size: 19px;
+  }
+  .sales-area .all-product-wrap {
+    float: unset;
+  }
+  .sales-area .browse-categories {
+    margin-left: 20px;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product {
+    top: 0;
+    right: 25px;
+    width: unset;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product.spl {
+    top: 0 !important;
+  }
+  .delivery-area .offset-sm-3.offset-lg-0.rsm {
+    margin-bottom: 30px !important;
+  }
+  .recent-single-product h3 {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  .recent-single-product span {
+    font-size: 16px;
+  }
+  .jewelry-banner-area {
+    padding-bottom: 50px;
+  }
+  .jewelry-banner-area .container-fluid {
+    max-width: 540px;
+    margin: auto;
+  }
+  .coming-soon-area .coming-soon-content h1 {
+    font-size: 55px;
+  }
+  .coming-soon-area .coming-soon-content #timer div {
+    font-size: 45px;
+  }
+  .coming-soon-area .coming-soon-content #timer div::before {
+    font-size: 65px;
+    right: -49px;
+  }
+  .cart-area .cart-wraps .continue-shopping-box {
+    margin-bottom: 0;
+  }
+  .news-details-area .blog-details-desc .article-content .entry-meta ul li {
+    display: inline-block;
+    font-size: 15px;
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .delivery-area .offset-sm-3.offset-lg-0.rsm {
+    margin-bottom: 30px !important;
+  }
+  .recent-single-product h3 {
+    font-size: 19px;
+    margin-bottom: 15px;
+  }
+  .recent-single-product span {
+    font-size: 18px;
+  }
+  .single-delivery i {
+    top: 0;
+  }
+  .jewelry-around-area .jewelry-around-content {
+    margin: auto;
+  }
+  .best-product-area .best-product-wrap .best-product-content h3 {
+    font-size: 20px;
+  }
+  .best-product-area .best-product-wrap .best-product-content p {
+    font-size: 15px;
+  }
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .pt-100 {
+    padding-top: 70px;
+  }
+  .pb-100 {
+    padding-bottom: 70px;
+  }
+  .pt-70 {
+    padding-top: 40px;
+  }
+  .pb-70 {
+    padding-bottom: 40px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .header-area .top-header-area {
+    text-align: center;
+  }
+  .header-area .top-header-area .header-content-right {
+    float: unset;
+  }
+  .tezno-nav-style .others-option {
+    position: absolute;
+    top: 19px;
+    right: 80px;
+  }
+  .tezno-slider-area {
+    padding-top: 135px;
+    padding-bottom: 70px;
+    text-align: center;
+  }
+  .tezno-slider-area .tezno-slider-text h1 {
+    font-size: 45px;
+    margin-bottom: 25px;
+  }
+  .tezno-slider-area .tezno-slider-text p {
+    margin-bottom: 30px;
+  }
+  .tezno-slider-area .slider-img {
+    margin-top: 30px;
+  }
+  .tezno-slider-area .tezno-slider-thumb {
+    margin: 30px auto -6px;
+    text-align: center;
+  }
+  .tezno-slider-area .slider-bottom-shape {
+    bottom: -9px;
+  }
+  .single-service i::after {
+    display: none;
+  }
+  .single-discover-products .product-img {
+    padding: 20px;
+  }
+  .single-discover-products .product-content {
+    padding: 0 20px 20px 20px;
+  }
+  .seasons-area .col-lg-6 {
+    padding: 0;
+  }
+  .seasons-area .seasons-wrap {
+    padding: 50px;
+    text-align: center;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap {
+    padding: 50px;
+    height: unset;
+    margin-top: 70px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content {
+    text-align: center;
+    padding: 30px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content img {
+    position: unset;
+    display: block;
+    text-align: center;
+    margin: 0 auto 15px;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content .default-btn {
+    font-size: 14px;
+    padding: 10px 20px 10px 10px;
+  }
+  .best-week-area .best-week-content {
+    padding: 20px;
+  }
+  .best-week-area .best-week-content {
+    margin-bottom: 30px;
+  }
+  .best-week-area .best-week-content h3 {
+    font-size: 25px;
+  }
+  .best-week-area .best-week-content .quantity input {
+    width: 20%;
+  }
+  .best-week-area .best-week-content .default-btn {
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  .weekly-specials-area .weekly-specials-wrap {
+    padding: 20px;
+  }
+  .weekly-specials-area .tab .tabs {
+    margin-bottom: 20px;
+  }
+  .weekly-specials-area .tab .tabs li {
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+  .weekly-specials-area .tab .tabs li a {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+  .weekly-specials-area .custom-mb .single-discover-products {
+    margin-bottom: 30px;
+  }
+  .weekly-specials-area .custom-mb .single-discover-products .purchase-bar {
+    padding: 20px;
+  }
+  .weekly-specials-area .custom-mb .single-discover-products .product-content h3 {
+    font-size: 19px;
+  }
+  .weekly-specials-area .single-discover-products .purchase-bar {
+    padding: 20px;
+  }
+  .weekly-specials-area .single-discover-products .product-content h3 {
+    font-size: 19px;
+  }
+  .subscribe-area .subscribe-img {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    max-width: 350px;
+  }
+  .subscribe-area .subscribe-content h2 {
+    font-size: 30px;
+  }
+  .subscribe-area .subscribe-content .form-control {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .jaeger-coulter-wrap .jaeger-content {
+    text-align: center;
+    padding: 20px;
+  }
+  .jaeger-coulter-wrap .jaeger-content h3 {
+    font-size: 25px;
+  }
+  .jaeger-coulter-wrap .jaeger-content img {
+    position: unset;
+  }
+  .collection-wrap {
+    margin-top: 30px;
+  }
+  .featured-products-area .tab .tabs {
+    margin-bottom: 30px;
+  }
+  .featured-products-area .tab .tabs li {
+    padding: 0 0;
+  }
+  .featured-products-area .tab .tabs li a {
+    font-size: 14px;
+  }
+  .featured-products-area .custom-mb .single-discover-products {
+    margin-bottom: 30px;
+  }
+  .single-articles .articles-content {
+    padding: 20px;
+    padding-top: 30px;
+  }
+  .collection-single .collection-img {
+    margin: auto;
+    text-align: center;
+  }
+  .collection-single .collection-img img {
+    max-width: 200px;
+  }
+  .collection-single .collection-img .collection-shape {
+    right: 0;
+    margin: auto;
+    text-align: center;
+  }
+  .collection-single .collection-content {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .single-widget h3 {
+    margin-bottom: 15px;
+  }
+  .single-widget ul li a i {
+    font-size: 14px;
+  }
+  .footer-bottom-area {
+    text-align: center;
+  }
+  .footer-bottom-area .social-area {
+    margin-bottom: 10px;
+  }
+  .footer-bottom-area .copy-right {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .footer-bottom-area .payment-method {
+    float: unset;
+    margin-bottom: 10px;
+  }
+  .default-btn {
+    font-size: 14px;
+  }
+  .electronics-header-area {
+    text-align: center;
+  }
+  .electronics-header-area .top-header-area {
+    display: none;
+  }
+  .electronics-header-area .top-header-area .header-content-left {
+    display: none;
+  }
+  .electronics-header-area .top-header-area .header-content-right li:last-child {
+    margin-right: 0;
+    margin-top: 10px;
+  }
+  .electronics-header-area .middle-header-area {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .electronics-header-area .middle-header-area .policy-area {
+    float: unset;
+  }
+  .electronics-header-area .middle-header-area .item-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .electronics-header-area .middle-header-area .item-1 p {
+    font-size: 14px;
+  }
+  .tezno-electronics-slider-area .tezno-slider-text .slider-btn .active {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .best-product-area .best-product-wrap .best-product-content {
+    padding: 20px;
+  }
+  .best-product-area .best-product-wrap .best-product-img {
+    height: 200px;
+  }
+  .delivery-wrap {
+    padding: 20px;
+  }
+  .delivery-wrap .single-delivery {
+    padding-left: 0;
+  }
+  .delivery-wrap .single-delivery i {
+    position: unset;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .trendy-collection-area .tab .tabs li {
+    margin-bottom: 10px;
+  }
+  .trendy-collection-area .tab .tabs li:last-child {
+    margin-bottom: 0;
+  }
+  .trendy-collection-area .tab .tabs li a {
+    font-size: 14px;
+  }
+  .mac-book-content {
+    margin-bottom: 30px;
+    padding: 20px;
+    height: unset;
+  }
+  .mac-book-content .offer {
+    font-size: 15px;
+    right: -5px;
+  }
+  .offer-product-wrap .single-trendy-products {
+    margin: 20px;
+    margin-right: 20px;
+  }
+  .offer-product-wrap .deal-offer {
+    text-align: center;
+    padding: 20px;
+  }
+  .featured-products-area .tab .tabs li a {
+    padding: 0 10px;
+  }
+  .electronics-news-area .electronics-news-title {
+    margin-bottom: 30px;
+  }
+  .electronics-news-area .electronics-news-title h2 {
+    font-size: 30px;
+  }
+  .electronics-news-area .container-fluid {
+    max-width: 540px;
+    margin: auto;
+  }
+  .electronics-news-area .container-fluid .col-lg-3 {
+    padding: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .electronics-news-area .container-fluid .col-lg-9 {
+    padding: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .electronics-news-area .container-fluid .single-electronics-news .single-electronics-content {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    max-width: unset;
+    right: 20px;
+  }
+  .electronics-news-area .container-fluid .single-electronics-news .single-electronics-content a h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .sales-area {
+    text-align: center;
+  }
+  .sales-area .sales-title h2 {
+    font-size: 30px;
+  }
+  .sales-area .browse-categories {
+    margin-left: 0;
+  }
+  .sales-area .owl-carousel .owl-item img {
+    height: 250px;
+  }
+  .sales-area .sales-content-wrap {
+    padding: 20px;
+  }
+  .sales-area .sales-content-wrap .sales-content h3 {
+    margin-bottom: 15px;
+  }
+  .sales-area .sales-content-wrap .price {
+    margin-bottom: 15px;
+  }
+  .electronics-news-area {
+    text-align: center;
+    overflow: hidden;
+  }
+  .sales-area .owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 0px !important;
+  }
+  .address-area {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .address-area .single-address {
+    margin-bottom: 30px;
+  }
+  .tezno-nav-style-electronics .others-option {
+    display: none;
+  }
+  .delivery-area .col-lg-4.col-sm-6.offset-sm-3.offset-lg-0 .single-delivery {
+    margin-bottom: 0 !important;
+  }
+  .single-trendy-products .product-content h3 {
+    font-size: 19px;
+  }
+  .sales-area .all-product-wrap {
+    float: unset;
+  }
+  .sales-area .browse-categories {
+    margin-left: 20px;
+  }
+  .best-product-area .best-product-wrap .best-product-content {
+    padding: 15px;
+  }
+  .best-product-area .best-product-wrap .best-product-content h3 {
+    font-size: 19px;
+  }
+  .newsletter-area .subscribe-img {
+    max-width: absolute;
+    top: -100px;
+  }
+  .mac-book-area.ptb-100 .row {
+    max-width: 500px;
+    margin: auto;
+  }
+  .mac-book-area .mac-book-content {
+    padding: 30px;
+  }
+  .mac-book-area .offer-product-wrap {
+    padding: 15px 0;
+  }
+  .mac-book-area .offer-product-wrap .deal-offer {
+    padding-top: 0;
+  }
+  .single-trendy-products .product-content h3 {
+    font-size: 18px;
+  }
+  .jewelry-header-area .top-header-area {
+    display: none;
+  }
+  .jewelry-header-area .top-header-area {
+    display: none;
+  }
+  .jewelry-header-area .bottom-header-area {
+    display: none;
+  }
+  .jewelry-banner-area .social {
+    display: none;
+  }
+  .jewelry-banner-area .jewelry-banner-text {
+    text-align: center;
+    padding-top: 160px;
+  }
+  .jewelry-banner-area .jewelry-banner-text h1 {
+    font-size: 40px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .offer {
+    font-size: 18px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .starting {
+    font-size: 16px;
+  }
+  .jewelry-banner-area .jewelry-banner-text .price {
+    font-size: 16px;
+  }
+  .jewelry-banner-area .col-lg-6.pr-0 {
+    padding-right: 15px !important;
+  }
+  .best-product-area {
+    padding-top: 70px;
+  }
+  .best-product-area .container-fluid {
+    max-width: 720px;
+  }
+  .best-product-area .container-fluid .col-lg-4.p-0 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .best-product-area .container-fluid .col-lg-4.p-0:nth-child(3) .single-offer-product {
+    margin-bottom: 0;
+  }
+  .best-product-area .container-fluid .single-offer-product {
+    margin-bottom: 30px;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product {
+    top: 0;
+    right: 25px;
+    width: unset;
+  }
+  .best-product-area .container-fluid .single-offer-product .offer-product.spl {
+    top: 0 !important;
+  }
+  .jewelry-bg-1 {
+    padding: 20px;
+    padding-bottom: 0;
+    padding-top: 30px;
+  }
+  .jewelry-bg-1 .single-delivery h3 {
+    font-size: 18px;
+  }
+  .jewelry-bg-1 .single-delivery i {
+    top: 0;
+  }
+  .trending-collection-area .trending-collection-content h2 {
+    font-size: 35px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul {
+    display: block;
+    float: unset;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  .this-is-deal-of-the-days .end-offer-bg {
+    padding: 70px;
+    margin-top: 70px;
+  }
+  .deal-offer {
+    padding: 20px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li a img {
+    margin-right: 12px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image ul li:last-child a img {
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+  .deal-offer #timer div {
+    width: 55px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image .tabs_item img {
+    width: 100%;
+    margin-left: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  .this-is-deal-of-the-days {
+    text-align: center;
+  }
+  .this-is-deal-of-the-days .product-view-one-image {
+    padding: 20px;
+    padding-bottom: 0;
+  }
+  .this-is-deal-of-the-days .end-offer-bg .end-offer-wrap {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .precious-jewelry-area .shorting-menu .filter {
+    padding: 10px 20px;
+    font-size: 14px;
+    margin: 0 10px;
+    margin-bottom: 10px;
+  }
+  .precious-jewelry-area .shorting-menu {
+    margin: 0 auto 20px;
+  }
+  .available-all-jewelry-wrap .available-all-jewelry-content.two img {
+    top: 5px;
+  }
+  .diamond-area .container-fluid {
+    max-width: 720px;
+    margin: auto;
+  }
+  .diamond-area .container-fluid .col-lg-6 {
+    padding-left: 15px !important;
+  }
+  .diamond-area .container-fluid .col-lg-6 {
+    padding-right: 15px !important;
+  }
+  .diamond-wrap .diamond-content {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .diamond-wrap .diamond-content .build {
+    margin-left: 30px;
+  }
+  .diamond-wrap {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+  }
+  .diamond-img {
+    height: 200px;
+    margin-bottom: 30px;
+  }
+  .diamond-wrap .diamond-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .diamond-wrap .diamond-content p {
+    margin-bottom: 30px;
+  }
+  .best-product-jewelry-area .owl-theme .owl-dots {
+    margin-top: 0px !important;
+    line-height: 1;
+  }
+  .jewelry-around-area .jewelry-around-discount {
+    padding: 30px;
+    margin: 30px auto 0;
+    text-align: center;
+  }
+  .jewelry-around-area .jewelry-around-discount h2 {
+    font-size: 60px;
+  }
+  .jewelry-around-area .jewelry-around-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .jewelry-around-area .jewelry-around-content p {
+    margin-bottom: 10px;
+  }
+  .jewelry-around-area .jewelry-around-content span {
+    margin-bottom: 25px;
+  }
+  .single-blog .blog-content {
+    padding: 20px;
+  }
+  .trending-collection-area .trending-collection-content span {
+    margin-bottom: 20px;
+  }
+  .trending-collection-area .trending-collection-content h2 {
+    margin-bottom: 10px;
+  }
+  .trending-collection-area .trending-collection-content p {
+    margin-bottom: 30px;
+  }
+  .available-all-jewelry-wrap.two {
+    margin-top: 30px;
+  }
+  .jewelry-subscribe-area .subscribe-area-wrap {
+    text-align: center;
+  }
+  .jewelry-subscribe-area .subscribe-area-wrap h2 {
+    margin-bottom: 30px;
+    font-size: 30px;
+  }
+  .jewelry-header-area.tezno-nav-style-electronics span {
+    display: none;
+  }
+  .tezno-nav-style-electronics span {
+    display: none;
+  }
+  .jewelry-banner-area {
+    padding-bottom: 70px;
+  }
+  .jewelry-banner-area .container-fluid {
+    max-width: 720px;
+    margin: auto;
+  }
+  .ls-fullscreen-wrapper {
+    padding-top: 70px;
+  }
+  .ls-fullscreen-wrapper #slider {
+    margin: 0px auto 90px 0px !important;
+  }
+  .user-area-all-style .contact-form-action {
+    padding: 20px;
+  }
+  .user-area-all-style .contact-form-action .form-heading .form-title {
+    font-size: 25px;
+  }
+  .user-area-all-style .contact-form-action .form-heading .form-desc {
+    font-size: 15px;
+  }
+  .billing-details {
+    margin-bottom: 30px;
+  }
+  .product-details-area .product-details-image {
+    margin-top: 30px;
+  }
+  .news-details-area .widget-area .widget:first-child {
+    margin-top: 35px;
+  }
+  .page-title-area {
+    padding-bottom: 100px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .tezno-nav-style .others-option .flag-wrap .flag-item-top .flag-item-bottom {
+    left: unset;
+    right: 0 !important;
+  }
+  .tezno-nav-style .others-option .flag-wrap .flag-item-top .flag-item-bottom::before {
+    right: 20px;
+    left: unset;
+  }
+  .tezno-slider-area .tezno-slider-text h1 {
+    font-size: 75px;
+  }
+  .tezno-slider-area .tezno-slider-thumb {
+    max-width: 930px;
+    text-align: center;
+  }
+  .tezno-slider-area .slider-bottom-shape {
+    bottom: -5px;
+  }
+  .tezno-slider-area .owl-prev {
+    top: 100%;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .tezno-slider-area .owl-next {
+    top: 100%;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content {
+    padding-left: 30px;
+    text-align: center;
+  }
+  .seasons-area .seasons-wrap.seasons-off-wrap .seasons-off-content img {
+    width: 200px;
+    position: unset;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .subscribe-area .subscribe-content .form-control {
+    margin-right: 20px;
+  }
+  .subscribe-area .subscribe-img {
+    top: -50px;
+  }
+  .section-title {
+    margin: -8px auto 50px;
+  }
+  .collection-img img {
+    max-width: 165px;
+    text-align: center;
+    margin: auto;
+    display: block;
+  }
+  .collection-img .collection-shape {
+    right: 0;
+  }
+  .footer-bottom-area .copy-right p {
+    font-size: 14px;
+  }
+  .go-top.active {
+    top: 88%;
+  }
+  .tezno-nav-style-electronics .navbar-area .main-nav nav .navbar-nav .nav-item a {
+    padding: 30px 6px;
+    font-size: 14px;
+  }
+  .item-1 p {
+    font-size: 14px;
+  }
+  .tezno-slider-area.tezno-electronics-slider-area .owl-prev {
+    top: 107%;
+    left: 30px;
+  }
+  .tezno-slider-area.tezno-electronics-slider-area .owl-next {
+    top: 107%;
+    right: 30px;
+  }
+  .single-trendy-products .purchase-bar ul li {
+    padding: 0 2px;
+  }
+  .single-trendy-products .product-content h3 {
+    font-size: 18px;
+  }
+  .electronics-news-area .container-fluid {
+    max-width: 930px;
+    margin: auto;
+  }
+  .mac-book-area .mac-book-content {
+    padding: 15px;
+  }
+  .mac-book-area .mac-book-content .offer {
+    font-size: 15px;
+  }
+  .mac-book-area .offer-product-wrap .single-trendy-products {
+    margin: 15px;
+    margin-right: 0;
+  }
+  .mac-book-area .offer-product-wrap .deal-offer {
+    padding: 15px;
+    padding-left: 0;
+  }
+  .mac-book-area .offer-product-wrap .deal-offer h3 {
+    font-size: 19px;
+  }
+  .mac-book-area .offer-product-wrap .deal-offer #timer div {
+    width: 45px;
+    height: 45px;
+    margin-right: 1px;
+    font-size: 15px;
+  }
+  .jewelry-header-area .top-header-area .wishlist ul li:last-child {
+    display: none;
+  }
+  .jewelry-header-area .top-header-area .wishlist ul li:nth-child(5) {
+    border-right: none;
+  }
+  .tezno-nav-style-jewelry .navbar-area .main-nav nav .navbar-nav .nav-item a {
+    padding: 30px 8px;
+    font-size: 14px;
+  }
+  .jewelry-banner-area .jewelry-banner-text h1 {
+    font-size: 65px;
+  }
+  .single-offer-product .offer-product {
+    top: 140px;
+    right: 40px;
+    max-width: 100px;
+  }
+  .single-offer-product .offer-product.spl {
+    top: 160px;
+  }
+  .jewelry-banner-area .container-fluid {
+    max-width: 980px;
+  }
+  .recent-single-product .purchase-bar {
+    padding: 20px;
+  }
+  .recent-single-product {
+    padding: 20px;
+  }
+  .recent-single-product h3 {
+    font-size: 16px;
+  }
+  .recent-single-product span {
+    font-size: 16px;
+  }
+  .this-is-deal-of-the-days .product-view-one-image .tabs_item img {
+    width: 175px;
+    margin-left: 0;
+    padding: 10px;
+    top: 22px;
+    position: relative;
+  }
+  .available-all-jewelry-wrap .available-all-jewelry-content.two {
+    padding-left: 200px;
+  }
+  .available-all-jewelry-wrap .available-all-jewelry-content.two img {
+    top: 30px;
+    width: 155px;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .tezno-slider-area .slider-img {
+    width: 600px;
+    height: 600px;
+  }
+  .tezno-slider-area .slider-img img {
+    max-width: 350px;
+  }
+  .tezno-slider-area .owl-prev {
+    -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+  }
+  .tezno-slider-area .owl-next {
+    -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+  }
+  .tezno-slider-area .slider-bottom-shape {
+    bottom: 0;
+  }
+  .tezno-electronics-slider-area .slider-img img {
+    max-width: unset;
+  }
+  .jewelry-banner-area .container-fluid {
+    max-width: 1520px;
+  }
+  .single-offer-product .offer-product {
+    max-width: unset;
+  }
+  .electronics-news-area .container-fluid {
+    max-width: 1500px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .mean-container .mean-bar {
+    background-color: #0160e7;
+    -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
+    height: 70px;
+  }
+  .mean-container a.meanmenu-reveal {
+    padding: 25px 15px 0 0;
+    color: #cc8c18;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background-color: #ffffff;
+  }
+  .mobile-nav .logo {
+    width: 135px;
+    top: 14px;
+  }
+  .mobile-nav.mean-container .mean-nav {
+    margin-top: 70px;
+  }
+  .mobile-nav.mean-container .mean-nav ul li a:hover {
+    color: #cc8c18;
+  }
+  .mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #cc8c18;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

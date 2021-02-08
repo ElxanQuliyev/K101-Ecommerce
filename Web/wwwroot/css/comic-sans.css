@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS-Bold.woff2') format('woff2'),
+        url('../fonts/ComicSansMS-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS.woff2') format('woff2'),
+        url('../fonts/ComicSansMS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS-Italic.woff2') format('woff2'),
+        url('../fonts/ComicSansMS-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS.woff2') format('woff2'),
+        url('../fonts/ComicSansMS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS-BoldItalic.woff2') format('woff2'),
+        url('../fonts/ComicSansMS-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('../fonts/ComicSansMS.woff2') format('woff2'),
+        url('../fonts/ComicSansMS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

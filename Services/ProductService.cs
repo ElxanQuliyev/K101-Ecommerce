@@ -27,7 +27,10 @@ namespace Services
             return _context.Products.Include("ProductPictures.Picture").FirstOrDefault(x=>x.ID==id);
         }
 
-
+        public List<Product> FindProductIDs(List<int> ids)
+        {
+            return _context.Products.Where(x => ids.Contains(x.ID)).Distinct().ToList();
+        }
         public  List<Product> SearchProduct(int? id,string searchTerm,int? sortBy)
         {
             var products = _context.Products.Include("ProductPictures.Picture").AsQueryable();

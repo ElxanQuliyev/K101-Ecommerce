@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elxan\\Desktop\\K101Ecommerce\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elxan\\Desktop\\K101Ecommerce\\Entities\\Entities.csproj": {
+    "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elxan\\Desktop\\K101Ecommerce\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Elxan\\Desktop\\K101Ecommerce\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elxan\\Desktop\\K101Ecommerce\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Compar Academy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Compar Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

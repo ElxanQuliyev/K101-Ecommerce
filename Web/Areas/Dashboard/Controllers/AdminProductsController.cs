@@ -8,10 +8,12 @@ using Microsoft.EntityFrameworkCore;
 using DataAccess;
 using Entities;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Web.Areas.Dashboard.Controllers
 {
     [Area("Dashboard")]
+    [Authorize(Roles = "Admin,Moderator")]
     public class AdminProductsController : Controller
     {
         private readonly EcommerceContext _context;
@@ -21,6 +23,7 @@ namespace Web.Areas.Dashboard.Controllers
             _context = context;
         }
 
+
         // GET: Dashboard/AdminProducts
         public async Task<IActionResult> Index()
         {
@@ -28,6 +31,7 @@ namespace Web.Areas.Dashboard.Controllers
             return View(await ecommerceContext.ToListAsync());
         }
 
+        [Authorize(Roles ="Admin")]
         // GET: Dashboard/AdminProducts/Details/5
         public async Task<IActionResult> Details(int? id)
         {

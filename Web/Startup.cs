@@ -36,7 +36,7 @@ namespace Web
             //services.AddSingleton<ProductService>(EcommerceContext);
             services.AddDatabaseDeveloperPageExceptionFilter();
 
-            services.AddIdentity<K101User,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddDefaultIdentity<K101User>().AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<EcommerceContext>();
             services.Configure<IdentityOptions>(options =>
             {
@@ -105,7 +105,7 @@ namespace Web
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
-                //endpoints.MapRazorPages();
+                endpoints.MapRazorPages();
 
             });
         }

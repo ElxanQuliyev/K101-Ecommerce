@@ -1,0 +1,16 @@
+﻿@model AddRoleUserVM
+@{
+}
+
+<form  method="post">
+    <div class="form-group">
+        <label>Role</label>
+        <select class="form-control" name="Role">
+            @foreach (var role in Model.Roles)
+            {
+                <option value="@role">@role</option>
+            }
+        </select>
+    </div>
+    <input type="submit"  value="ADd Role" class="btn btn-success" />
+</form>

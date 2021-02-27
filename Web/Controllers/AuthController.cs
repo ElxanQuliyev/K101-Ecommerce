@@ -72,7 +72,7 @@ namespace Web.Controllers
                 ModelState.AddModelError("", "Email or Password is invalid!");
                 return View(loginVM);
             }
-            Microsoft.AspNetCore.Identity.SignInResult result = await _signInManager.PasswordSignInAsync(appUser.Email, loginVM.Password, loginVM.RememberMe, lockoutOnFailure:tr);
+            Microsoft.AspNetCore.Identity.SignInResult result = await _signInManager.PasswordSignInAsync(appUser.Email, loginVM.Password, loginVM.RememberMe, lockoutOnFailure:false);
             if (!result.Succeeded)
             {
                 ModelState.AddModelError("", "Email or Password is invalid!");

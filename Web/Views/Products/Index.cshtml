@@ -93,7 +93,7 @@
                                 <div class="purchase-bar">
                                     <ul class="">
                                         <li data-toggle="tooltip" title="Cart">
-                                            <a href="cart.html">
+                                            <a class="addToCart" href="javascript:void(0)" pro-id="@pro.ID">
                                                 <i class="flaticon-shopping-cart-1"></i>
                                             </a>
                                         </li>
@@ -153,7 +153,8 @@
 <!-- End Discover Products Area -->
 
 @section Scripts{ 
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+    <script src="~/js/myCart.js"></script>
 <script>
     $("#sortBy").on("change", function () {
         let sortBy = Number($(this).val())

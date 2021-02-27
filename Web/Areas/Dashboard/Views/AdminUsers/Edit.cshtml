@@ -1,0 +1,35 @@
+﻿@model K101User
+@inject Microsoft.AspNetCore.Identity.UserManager<K101User> userManager
+@{
+}
+
+<h4>Edit User Role</h4>
+<dl>
+    <dt>Email</dt>
+    <dd>@Model.Email</dd>
+</dl>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Roles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var role in await userManager.GetRolesAsync(Model))
+        {
+            <tr>
+                <td>
+                    @role
+                </td>
+                <td>
+                    @if (role != "Admin")
+                    {
+                        <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@Model.Id" asp-route-role="@role">
+                            <i class="mdi mdi-delete"></i>
+                        </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

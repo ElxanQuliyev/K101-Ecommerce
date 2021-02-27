@@ -1,4 +1,6 @@
 ﻿using DataAccess;
+using Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Services;
@@ -7,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Web.Models;
+using Web.ViewModels;
 
 namespace Web.Controllers
 {
@@ -23,6 +26,20 @@ namespace Web.Controllers
             _logger = logger;
         }
 
+        [Authorize(Roles ="User")]
+        public IActionResult Checkout()
+        {
+           var productIds= Request.Cookies["CartProduct"];
+            CheckoutVM vm = new CheckoutVM();
+            if (productIds!=null && !string.IsNullOrEmpty(productIds))
+            {
+                var ProIDs = productIds.Split('-').Select(p => int.Parse(p)).ToList();
+                vm.Products = _productService.FindProductIDs(ProIDs);
+                vm.ProductIds = ProIDs;
+            }
+            return View(vm);
+        }
+        
         public IActionResult Index(int? id,string search,int? sortBy)
         {
             ShopProductViewModel vm = new ShopProductViewModel()

@@ -31,14 +31,14 @@ namespace Services
         {
             return _context.Products.Where(x => ids.Contains(x.ID)).Distinct().ToList();
         }
-        public  List<Product> SearchProduct(int? id,string searchTerm,int? sortBy)
+        public  List<Product> SearchProduct(int? id,string searchTerm,int? sortBy, int? Page,int MaxPage,out int count)
         {
+            Page = Page ?? 1;
             var products = _context.Products.Include("ProductPictures.Picture").AsQueryable();
             if (id.HasValue)
             {
                 products = products.Where(p => p.CategoryID == id);
             }
-
             if (!string.IsNullOrEmpty(searchTerm))
             {
                 products = products.Where(p => p.Name.Contains(searchTerm));
@@ -58,7 +58,11 @@ namespace Services
                         break;
                 }
             }
-            return products.ToList();
+            int skip = (Page.Value - 1) * MaxPage;
+            products = products.Skip(skip).Take(MaxPage);
+            count = products.Count();
+
+            return products.Skip(skip).Take(MaxPage).ToList();
         }
 
 

@@ -809,20 +809,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Compar Academy\\.nuget\\packages\\": {}
+    "C:\\Users\\Elxan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Elxan\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Compar Academy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Compar Academy\\Desktop\\K101-Ecommerce\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\Elxan\\Desktop\\K101-Ecommerce\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elxan\\Desktop\\K101-Ecommerce\\Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Compar Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -871,7 +876,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
